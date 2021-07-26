@@ -36,20 +36,20 @@ After you become master in php you will need to know about Databases, Tables, Ro
     
 <a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9">Database</a>
 
-### Payment GateWay: Traversy Media
+### Payment Gateway: Traversy Media
 Sometimes you need to provide Payment methods to your website like {Stripe, HyperPal, PayPal, ...} (from 2 to 3 day) 👇
     
-<a href="https://www.youtube.com/playlist?list=PLillGF-Rfqbb8OFHzQhkEElaReewJlwca">Database</a>
+<a href="https://www.youtube.com/playlist?list=PLillGF-Rfqbb8OFHzQhkEElaReewJlwca">Payment Gateway</a>
 
 ### API: Traversy Media
 Finally after you’ve finished PHP & MySQL you need to know how to create apis and deliver them to Android developer (from 1 to 2 day) 👇
     
-<a href="https://youtube.com/playlist?list=PLillGF-RfqbZ3_Xr8do7Q2R752xYrDRAo">Database</a>
+<a href="https://youtube.com/playlist?list=PLillGF-RfqbZ3_Xr8do7Q2R752xYrDRAo">API</a>
 
 ### Github: Elzero
 You will learn Github to push your projects first 9 episodes (from 3 to 5 day) 👇
     
-<a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVM">Database</a>
+<a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVM">Github</a>
 
 # Intermediate Level 🔥
 
