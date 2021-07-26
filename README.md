@@ -10,7 +10,7 @@
 </ul>
     
 > NOTE that `Xampp` is a local server to run your PHP code and this program is used in all operating systems, and optinally you can choose between `PhpStorm` or `VS Code` according to your comfortable, BUT personally, I prefer to use `VS Code` for simplicity and speedy and in case you choose to use `VS Code` I recommend you to use these useful 
-<a href="https://drive.google.com/drive/folders/1HuusbXj7rC37sz5YUH9mrGQuMpDMLF0x?usp=sharing">extensions</a>
+<a href="https://github.com/CIS-Team/BackEnd-Squad/tree/main/assets/img/extensions">extensions</a>
 
 # Getting Started 🚀
 
