@@ -9,7 +9,7 @@
   <li><a href="https://www.jetbrains.com/phpstorm/">PhpStorm</a> || <a href="https://code.visualstudio.com/download">VS Code<a></li>
 </ul>
     
-> NOTE that `Xampp` is a local server to run your PHP code and this program is used in all operating systems, and optinally you can choose between `PhpStorm` or `VS Code` according to your comfortable, BUT personally, I prefer to use `VS Code` for simplicity and speedy and in case you choose to use `VS Code` I recommend you to use these useful 
+> `Xampp` is a local server to run your PHP code and this program is used in all operating systems, and optinally you can choose between `PhpStorm` or `VS Code` according to your comfortable, BUT personally, I prefer to use `VS Code` for simplicity and speedy and in case you choose to use `VS Code` I recommend you to use these useful 
 <a href="https://github.com/CIS-Team/BackEnd-Squad/tree/main/assets/img/extensions">extensions</a>
 
 # Getting Started 🚀
@@ -56,7 +56,7 @@ You will learn Github to push your projects first 9 episodes (from 3 to 5 day) �
 ### Laravel 7.x: Ahmed Emam
 You will learn basics and advanced things here like ajax and payment gateway...etc (from 15 to 20 day)👇
     
-> I prefer at the begging of learning to start WITH Arabic tutorials to learn easily and do NOT upset about that, BUT if you are good at English you can skip this step
+> I prefer at the begging of learning to start WITH Arabic tutorials to learn easily, BUT if you are good at English you can skip this step
     
 <a href="https://www.youtube.com/playlist?list=PLCm7ZeRfGSP4NNEikwx3wUAskQHB3p-LK">Arabic Laravel 7.x</a>
 
