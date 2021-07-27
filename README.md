@@ -68,7 +68,7 @@ Here you will learn more things but in different way to gain experience (from 10
 ### Laravel 7.x: Sarthak Shrivastava
 Here you will learn more and more and become Ninja in Laravel and you will other things like some of Livewire and Tailwind CSS (from 10 to 15 day) 👇
 
-<a href="hhttps://www.youtube.com/playlist?list=PLe30vg_FG4OSTUv3XIkwH--cK2D7rfJJ">English Laravel 7.x</a>
+<a href="https://youtube.com/playlist?list=PLe30vg_FG4OSCTUv3XIkwH--cK2D7rfJJ">English Laravel 7.x</a>
 
 ### Livewire
 Here will Laravel Livewire framework, this framework sameller to vue.js (from 5 to 10 day) 👇
