@@ -61,29 +61,29 @@ You will learn basics and advanced things here like ajax and payment gateway...e
 <a href="https://www.youtube.com/playlist?list=PLCm7ZeRfGSP4NNEikwx3wUAskQHB3p-LK">Arabic Laravel 7.x</a>
 
 ### Laravel 5.x: Coder’s Tape
-Here you will learn more things but in different way to gain experience (from 10 to 15 day)👇
+You will learn more things but in different way to gain experience (from 10 to 15 day)👇
     
 <a href="https://www.youtube.com/playlist?list=PLpzy7FIRqpGD0kxI48v8QEVVZd744Phi4">Laravel 5.x</a>
 
 ### Laravel 7.x: Sarthak Shrivastava
-Here you will learn more and more and become Ninja in Laravel and you will other things like some of Livewire and Tailwind CSS (from 10 to 15 day) 👇
+You will learn more and more and become Ninja in Laravel and you will other things like some of Livewire and Tailwind CSS (from 10 to 15 day) 👇
 
 <a href="https://youtube.com/playlist?list=PLe30vg_FG4OSCTUv3XIkwH--cK2D7rfJJ">English Laravel 7.x</a>
 
 ### Livewire
-Here will Laravel Livewire framework, this framework sameller to vue.js (from 5 to 10 day) 👇
+You will learn Laravel Livewire framework, this framework is sameller to Vue.js (from 5 to 10 day) 👇
     
 <a href="https://www.youtube.com/playlist?list=PLe30vg_FG4OQ8b813BDykoYz95Zc3xUWK">Laravel Livewire</a>
 
 # Advanced Level 😎
     
 ### Laravel 6.x: Coder’s Tape
-Here you will learn very advanced topics in Laravel with Code’s Tap (from 5 to 9 day) 👇
+You will learn very advanced topics in Laravel with Code’s Tap (from 5 to 9 day) 👇
     
 <a href="https://www.youtube.com/playlist?list=PLpzy7FIRqpGD5pN3-Y66YDtxJCYuGumFO ">Laravel 6.x</a>
 
 ### Laravel 7.x: Laravel Realtime
-Here you will learn very advanced topics and real time actions in Laravel with Ahemd Emam (from 5 to 9 day) 👇
+You will learn very advanced topics and real time actions in Laravel with Ahemd Emam (from 5 to 9 day) 👇
     
 <a href="https://www.youtube.com/playlist?list=PLCm7ZeRfGSP5u3WilkVBz4s-uQtsy79eb">Laravel Realtime</a>
 
