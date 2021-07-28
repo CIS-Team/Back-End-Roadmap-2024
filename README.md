@@ -1,5 +1,11 @@
 # Back End Squad Roadmap
 
+<p align="center">
+  <a href="https://www.php.net/docs.php"><img src="https://github.com/CIS-Team/BackEnd-Squad/blob/main/assets/repo/php_logo.svg" width="100px" height="200px" alt="PHP"></a>
+  <a href="https://laravel.com/"><img src="https://github.com/CIS-Team/BackEnd-Squad/blob/main/assets/repo/laravel_logo.svg" width="300px" height="200px" alt="Laravel"></a>
+  <a href="https://laravel.com/"><img src="https://github.com/CIS-Team/BackEnd-Squad/blob/main/assets/repo/livewire_logo.svg" width="100px" height="200px" alt="Laravel"></a>
+</p>
+
 **We are in CIS try to give you advice about How to start web back-end development. This document is for those who are interested in PHP & Laravel**
 
 # Tools 🤙
@@ -9,8 +15,8 @@
   <li><a href="https://www.jetbrains.com/phpstorm/">PhpStorm</a> || <a href="https://code.visualstudio.com/download">VS Code<a></li>
 </ul>
     
-> `Xampp` is a local server to run your PHP code and this program is used in all operating systems, and optinally you can choose between `PhpStorm` or `VS Code` according to your comfortable, BUT personally, I prefer to use `VS Code` for simplicity and speedy and in case you choose to use `VS Code` I recommend you to use these useful 
-<a href="https://github.com/CIS-Team/BackEnd-Squad/tree/main/assets/img/extensions">extensions</a>
+> `Xampp` is a local server to run your PHP code and this program is used in all operating systems, and optionally you can choose between `PhpStorm` or `VS Code` according to your comfortable, BUT personally, I prefer to use `VS Code` for simplicity and speedy and in case you choose to use `VS Code` I recommend you to use these useful 
+<a href="https://github.com/CIS-Team/BackEnd-Squad/tree/main/assets/img/extensions">extensions</a> or you maybe love to use <a href="https://marketplace.visualstudio.com/items?itemName=MahmoudMohamedRamadan.mr-darkest-theme">my extension</a>
 
 # Getting Started 🚀
 
@@ -72,6 +78,8 @@ You will learn more and more and become Ninja in Laravel and you will other thin
 
 ### Livewire
 You will learn Laravel Livewire framework, this framework is sameller to Vue.js (from 5 to 10 day) 👇
+ 
+> This step is optional but I advise you to learn this great framework as it will relieve you from AJAX problems. If you'd like to learn Vue.js you can see this <a href="https://youtube.com/playlist?list=PLDoPjvoNmBAzDuaT7kEURZQbw9dQHepK9">tutorial</a>
     
 <a href="https://www.youtube.com/playlist?list=PLe30vg_FG4OQ8b813BDykoYz95Zc3xUWK">Laravel Livewire</a>
 
@@ -97,8 +105,5 @@ Andre Madarang || Sarthak Shrivastava here you will learn some useful packages i
   <li><a href="https://www.youtube.com/playlist?list=PLe30vg_FG4ORrveWqHjn-9C5sn5mUP815">Sarthak Shrivastava</a></li>
 </ul>
 
-# Free Courses 
-If you need to change your recommendation courses, you will need to search about paid courses that are free now.
- 
-# Site for Free Books
-When you become advanced you will need to read more books to be professional in php and Laravel.
+# Books 📕
+If you reach this step I recommend you to read this <a href="https://github.com/CIS-Team/BackEnd-Squad/tree/main/books">book</a>
