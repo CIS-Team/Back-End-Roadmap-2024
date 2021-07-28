@@ -53,31 +53,31 @@ Finally after you’ve finished PHP & MySQL you need to know how to create apis 
 <a href="https://youtube.com/playlist?list=PLillGF-RfqbZ3_Xr8do7Q2R752xYrDRAo">API</a>
 
 ### Github: Elzero
-You will learn Github to push your projects first 9 episodes (from 3 to 5 day) 👇
+Here you will learn Github to push your projects first 9 episodes (from 3 to 5 day) 👇
     
 <a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVM">Github</a>
 
 # Intermediate Level 🔥
 
 ### Laravel 7.x: Ahmed Emam
-You will learn basics and advanced things here like ajax and payment gateway...etc (from 15 to 20 day)👇
+Here you will learn basics and advanced things here like ajax and payment gateway...etc (from 15 to 20 day)👇
     
 > I prefer at the begging of learning to start WITH Arabic tutorials to learn easily, BUT if you are good at English you can skip this step
     
 <a href="https://www.youtube.com/playlist?list=PLCm7ZeRfGSP4NNEikwx3wUAskQHB3p-LK">Arabic Laravel 7.x</a>
 
 ### Laravel 5.x: Coder’s Tape
-You will learn more things but in different way to gain experience (from 10 to 15 day)👇
+Here you will learn more things but in different way to gain experience (from 10 to 15 day)👇
     
 <a href="https://www.youtube.com/playlist?list=PLpzy7FIRqpGD0kxI48v8QEVVZd744Phi4">Laravel 5.x</a>
 
 ### Laravel 7.x: Sarthak Shrivastava
-You will learn more and more and become Ninja in Laravel and you will other things like some of Livewire and Tailwind CSS (from 10 to 15 day) 👇
+Here you will learn more topics to become Ninja in Laravel and you will other things like some of Livewire and Tailwind CSS (from 10 to 15 day) 👇
 
 <a href="https://youtube.com/playlist?list=PLe30vg_FG4OSCTUv3XIkwH--cK2D7rfJJ">English Laravel 7.x</a>
 
 ### Livewire
-You will learn Laravel Livewire framework, this framework is sameller to Vue.js (from 5 to 10 day) 👇
+Here you will learn Laravel Livewire framework, this framework is sameller to Vue.js (from 5 to 10 day) 👇
  
 > This step is optional but I advise you to learn this great framework as it will relieve you from AJAX problems. If you'd like to learn Vue.js you can see this <a href="https://youtube.com/playlist?list=PLDoPjvoNmBAzDuaT7kEURZQbw9dQHepK9">tutorial</a>
     
@@ -86,12 +86,12 @@ You will learn Laravel Livewire framework, this framework is sameller to Vue.js 
 # Advanced Level 😎
     
 ### Laravel 6.x: Coder’s Tape
-You will learn very advanced topics in Laravel with Code’s Tap (from 5 to 9 day) 👇
+Here you will learn very advanced topics in Laravel with Code’s Tap (from 5 to 9 day) 👇
     
 <a href="https://www.youtube.com/playlist?list=PLpzy7FIRqpGD5pN3-Y66YDtxJCYuGumFO ">Laravel 6.x</a>
 
 ### Laravel 7.x: Laravel Realtime
-You will learn very advanced topics and real time actions in Laravel with Ahemd Emam (from 5 to 9 day) 👇
+Here you will learn very advanced topics and real time actions in Laravel with Ahemd Emam (from 5 to 9 day) 👇
     
 <a href="https://www.youtube.com/playlist?list=PLCm7ZeRfGSP5u3WilkVBz4s-uQtsy79eb">Laravel Realtime</a>
 
@@ -107,3 +107,12 @@ Andre Madarang || Sarthak Shrivastava here you will learn some useful packages i
 
 # Books 📕
 If you reach this step I recommend you to read this <a href="https://github.com/CIS-Team/BackEnd-Squad/tree/main/books">book</a>
+    
+# Real Project ⚡
+
+Here will you find an awesome <a href="https://youtube.com/playlist?list=PL6dOx0c_MWg58wyE6ZUFVsOqFj0-B3cT_">full stack project</a>. which covers lots of topics in {PHP, Laravel, API,...}
+    
+# Contacts 📱
+
+<a href="https://www.facebook.com/mahmoudmohamedramadan496" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
+ <a href="https://www.linkedin.com/in/mahmoudmohamedramadan/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
