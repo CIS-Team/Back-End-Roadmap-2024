@@ -72,7 +72,7 @@ Here you will learn more things but in different way to gain experience (from 10
 <a href="https://www.youtube.com/playlist?list=PLpzy7FIRqpGD0kxI48v8QEVVZd744Phi4">Laravel 5.x</a>
 
 ### Laravel 7.x: Sarthak Shrivastava
-Here you will learn more topics to become Ninja in Laravel and you will other things like some of Livewire and Tailwind CSS (from 10 to 15 day) 👇
+Here you will learn more topics to become Ninja in Laravel and you will learn other things like Livewire and Tailwind CSS (from 10 to 15 day) 👇
 
 <a href="https://youtube.com/playlist?list=PLe30vg_FG4OSCTUv3XIkwH--cK2D7rfJJ">English Laravel 7.x</a>
 
@@ -106,6 +106,7 @@ Andre Madarang || Sarthak Shrivastava here you will learn some useful packages i
 </ul>
 
 # Books 📕
+
 If you reach this step I recommend you to read this <a href="https://github.com/CIS-Team/BackEnd-Squad/tree/main/books">book</a>
     
 # Real Project ⚡
