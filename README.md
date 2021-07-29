@@ -105,15 +105,17 @@ Andre Madarang || Sarthak Shrivastava here you will learn some useful packages i
   <li><a href="https://www.youtube.com/playlist?list=PLe30vg_FG4ORrveWqHjn-9C5sn5mUP815">Sarthak Shrivastava</a></li>
 </ul>
 
+# Real Project ⚡
+
+Here you will find an awesome <a href="https://youtube.com/playlist?list=PL6dOx0c_MWg58wyE6ZUFVsOqFj0-B3cT_">full stack project</a>. which covers lots of topics in {PHP, Laravel, API,...}
+    
+> This step is optional BUT actually, you will get more knowledge
+    
 # Books 📕
 
 If you reach this step I recommend you to read this <a href="https://github.com/CIS-Team/BackEnd-Squad/tree/main/books">book</a>
     
-# Real Project ⚡
-
-Here will you find an awesome <a href="https://youtube.com/playlist?list=PL6dOx0c_MWg58wyE6ZUFVsOqFj0-B3cT_">full stack project</a>. which covers lots of topics in {PHP, Laravel, API,...}
-    
-# Contacts 📱
+# Contact Me 📱
 
 <a href="https://www.facebook.com/mahmoudmohamedramadan496" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
  <a href="https://www.linkedin.com/in/mahmoudmohamedramadan/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
