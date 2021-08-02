@@ -113,7 +113,7 @@ Here you will find an awesome <a href="https://youtube.com/playlist?list=PL6dOx0
     
 # Books 📕
 
-If you reach this step I recommend you to read this <a href="https://github.com/CIS-Team/BackEnd-Squad/tree/main/books">book</a>
+If you reach this step I recommend you to read this <a href="https://github.com/CIS-Team/BackEnd-Squad/tree/main/books">book</a>, you will find also recaps <a href="https://github.com/mahmoudmohamedramadan/Laravel-Digging">here</a> for this book
     
 # Contact Me 📱
 
