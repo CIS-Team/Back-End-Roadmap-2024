@@ -115,6 +115,15 @@ Here you will find an awesome <a href="https://youtube.com/playlist?list=PL6dOx0
 
 If you reach this step I recommend you to read this <a href="https://github.com/CIS-Team/BackEnd-Squad/tree/main/books">book</a>, you will find also recaps <a href="https://github.com/mahmoudmohamedramadan/Laravel-Digging">here</a> for this book
     
+# Awesome 🎉
+
+> After you have finished all the above tutorials you can take a look at the next awesome tutorials
+    
+<ul>
+ <li><a href="https://github.com/odan/learn-php">Awesome PHP</a></li>
+ <li><a href="https://github.com/chiraggude/awesome-laravel">Awesome Laravel</a></li>
+</ul>
+    
 # Contact Me 📱
 
 <a href="https://www.facebook.com/mahmoudmohamedramadan496" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
