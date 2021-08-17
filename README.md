@@ -115,6 +115,10 @@ Here you will find an awesome <a href="https://youtube.com/playlist?list=PL6dOx0
 
 If you reach this step I recommend you to read this <a href="https://github.com/CIS-Team/BackEnd-Squad/tree/main/books">book</a>, you will find also recaps <a href="https://github.com/mahmoudmohamedramadan/Laravel-Digging">here</a> for this book
     
+# Laravel Examples 🎡
+    
+<a href="https://laravelexamples.com/">Laravel Examples</a>    
+    
 # Awesome 🎉
 
 > After you have finished all the above tutorials you can take a look at the next awesome tutorials
