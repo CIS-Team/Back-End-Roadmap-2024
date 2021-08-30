@@ -59,13 +59,6 @@ Here you will learn Github to push your projects first 9 episodes (from 3 to 5 d
 
 # Intermediate Level 🔥
 
-### Laravel 7.x: Ahmed Emam
-Here you will learn basics and advanced things here like ajax and payment gateway...etc (from 15 to 20 day)👇
-    
-> I prefer at the begging of learning to start WITH Arabic tutorials to learn easily, BUT if you are good at English you can skip this step
-    
-<a href="https://www.youtube.com/playlist?list=PLCm7ZeRfGSP4NNEikwx3wUAskQHB3p-LK">Arabic Laravel 7.x</a>
-
 ### Laravel 5.x: Coder’s Tape
 Here you will learn more things but in different way to gain experience (from 10 to 15 day)👇
     
