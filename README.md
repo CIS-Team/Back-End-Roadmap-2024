@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.php.net/docs.php"><img src="https://github.com/CIS-Team/BackEnd-Squad/blob/main/assets/repo/php_logo.svg" width="100px" height="200px" alt="PHP"></a>
   <a href="https://laravel.com/"><img src="https://github.com/CIS-Team/BackEnd-Squad/blob/main/assets/repo/laravel_logo.svg" width="300px" height="200px" alt="Laravel"></a>
-  <a href="https://laravel.com/"><img src="https://github.com/CIS-Team/BackEnd-Squad/blob/main/assets/repo/livewire_logo.svg" width="100px" height="200px" alt="Laravel"></a>
+  <a href="https://laravel-livewire.com/"><img src="https://github.com/CIS-Team/BackEnd-Squad/blob/main/assets/repo/livewire_logo.svg" width="100px" height="200px" alt="Laravel"></a>
 </p>
 
 **We are in CIS try to give you advice about How to start web back-end development. This document is for those who are interested in PHP & Laravel**
@@ -13,10 +13,11 @@
 <ul>
   <li><a href="https://www.apachefriends.org/download.html">Xampp</a></li>
   <li><a href="https://www.jetbrains.com/phpstorm/">PhpStorm</a> || <a href="https://code.visualstudio.com/download">VS Code<a></li>
+  <li><a href="https://getcomposer.org/">Composer</a></li>
 </ul>
     
 > `Xampp` is a local server to run your PHP code and this program is used in all operating systems, and optionally you can choose between `PhpStorm` or `VS Code` according to your comfortable, BUT personally, I prefer to use `VS Code` for simplicity and speedy and in case you choose to use `VS Code` I recommend you to use these useful 
-<a href="https://github.com/CIS-Team/BackEnd-Squad/tree/main/assets/img/extensions">extensions</a> you maybe love to use <a href="https://marketplace.visualstudio.com/items?itemName=MahmoudMohamedRamadan.mr-darkest-theme">my extension</a> also
+<a href="https://github.com/CIS-Team/BackEnd-Squad/tree/main/assets/img/extensions">extensions</a> you maybe love to use <a href="https://marketplace.visualstudio.com/items?itemName=MahmoudMohamedRamadan.mr-darkest-theme">my extension</a> also. `Composer` is a dependency manager for PHP and, you will need `Composer` for install/update Laravel Project also like packages
 
 # Getting Started 🚀
 
@@ -72,7 +73,7 @@ Here you will learn more topics to become Ninja in Laravel and you will learn ot
 ### Livewire
 Here you will learn Laravel Livewire framework, this framework is sameller to Vue.js (from 5 to 10 day) 👇
  
-> This step is optional but I advise you to learn this great framework as it will relieve you from AJAX problems. If you'd like to learn Vue.js you can see this <a href="https://youtube.com/playlist?list=PLDoPjvoNmBAzDuaT7kEURZQbw9dQHepK9">tutorial</a>
+> This step is optional BUT I advise you to learn that great framework as it will relieve you from AJAX problems. If you'd like to learn Vue.js you can see this <a href="https://youtube.com/playlist?list=PLDoPjvoNmBAzDuaT7kEURZQbw9dQHepK9">tutorial</a>
     
 <a href="https://www.youtube.com/playlist?list=PLe30vg_FG4OQ8b813BDykoYz95Zc3xUWK">Laravel Livewire</a>
 
