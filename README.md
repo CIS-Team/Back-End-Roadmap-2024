@@ -49,7 +49,7 @@ Sometimes you need to provide Payment methods to your website like {Stripe, Hype
 <a href="https://www.youtube.com/playlist?list=PLillGF-Rfqbb8OFHzQhkEElaReewJlwca">Payment Gateway</a>
 
 ### API: Traversy Media
-Finally after you’ve finished PHP & MySQL you need to know how to create apis and deliver them to Android developer (from 1 to 2 day) 👇
+Finally after you’ve finished `PHP` & `MySQL` you need to know how to create APIs (from 1 to 2 day) 👇
     
 <a href="https://youtube.com/playlist?list=PLillGF-RfqbZ3_Xr8do7Q2R752xYrDRAo">API</a>
 
@@ -66,12 +66,12 @@ Here you will learn more things but in different way to gain experience (from 10
 <a href="https://www.youtube.com/playlist?list=PLpzy7FIRqpGD0kxI48v8QEVVZd744Phi4">Laravel 5.x</a>
 
 ### Laravel 7.x: Sarthak Shrivastava
-Here you will learn more topics to become Ninja in Laravel and you will learn other things like Livewire and Tailwind CSS (from 10 to 15 day) 👇
+Here you will learn more topics like `Livewire` and `Tailwind CSS` (from 10 to 15 day) 👇
 
 <a href="https://youtube.com/playlist?list=PLe30vg_FG4OSCTUv3XIkwH--cK2D7rfJJ">English Laravel 7.x</a>
 
 ### Livewire
-Here you will learn Laravel Livewire framework, this framework is sameller to Vue.js (from 5 to 10 day) 👇
+Here you will learn `Livewire1 framework, this framework is similar to `Vue.js` (from 5 to 10 day) 👇
  
 > This step is optional BUT I advise you to learn that great framework as it will relieve you from AJAX problems. If you'd like to learn Vue.js you can see this <a href="https://youtube.com/playlist?list=PLDoPjvoNmBAzDuaT7kEURZQbw9dQHepK9">tutorial</a>
     
@@ -107,19 +107,29 @@ Here you will find an awesome <a href="https://youtube.com/playlist?list=PL6dOx0
     
 # Books 📕
 
-If you reach this step I recommend you to read this <a href="https://github.com/CIS-Team/BackEnd-Squad/tree/main/books">book</a>, you will find also recaps <a href="https://github.com/mahmoudmohamedramadan/Laravel-Digging">here</a> for this book
+<ul>
+  <li><a href="https://github.com/CIS-Team/BackEnd-Squad/tree/main/books">Laravel Up & Running</a></li>
+  <li><a href="https://github.com/CIS-Team/BackEnd-Squad/blob/main/books/The-Clean-Coders-Guide-to-Laravel.pdf">Laravel Clean Coders</a></li>
+</ul>
+
+> you may want recaps for the first book <a href="https://github.com/mahmoudmohamedramadan/Laravel-Digging">here</a>
     
-# Laravel Examples 🎡
+# Laravel Examples 💻
     
 <a href="https://laravelexamples.com/">Laravel Examples</a>    
     
-# Awesome 🎉
-
-> After you have finished all the above tutorials you can take a look at the next awesome tutorials
+# Awesome Repos 🥇
     
 <ul>
- <li><a href="https://github.com/odan/learn-php">Awesome PHP</a></li>
- <li><a href="https://github.com/chiraggude/awesome-laravel">Awesome Laravel</a></li>
+  <li><a href="https://github.com/odan/learn-php">Awesome PHP</a></li>
+  <li><a href="https://github.com/chiraggude/awesome-laravel">Awesome Laravel</a></li>
+</ul>
+    
+# Awesome Channels 🎦
+    
+<ul>
+  <li><a href="https://www.youtube.com/c/LaravelDaily">Laravel Daily</a></li>
+  <li><a href="https://www.youtube.com/c/Laratips">Laratips</a></li>
 </ul>
     
 # Contact Me 📱
