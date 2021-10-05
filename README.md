@@ -71,7 +71,7 @@ Here you will learn more topics like `Livewire` and `Tailwind CSS` (from 10 to 1
 <a href="https://youtube.com/playlist?list=PLe30vg_FG4OSCTUv3XIkwH--cK2D7rfJJ">English Laravel 7.x</a>
 
 ### Livewire
-Here you will learn `Livewire1 framework, this framework is similar to `Vue.js` (from 5 to 10 day) 👇
+Here you will learn `Livewire` framework, this framework is similar to `Vue.js` (from 5 to 10 day) 👇
  
 > This step is optional BUT I advise you to learn that great framework as it will relieve you from AJAX problems. If you'd like to learn Vue.js you can see this <a href="https://youtube.com/playlist?list=PLDoPjvoNmBAzDuaT7kEURZQbw9dQHepK9">tutorial</a>
     
