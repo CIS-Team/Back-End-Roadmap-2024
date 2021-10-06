@@ -132,6 +132,12 @@ Here you will find an awesome <a href="https://youtube.com/playlist?list=PL6dOx0
   <li><a href="https://www.youtube.com/c/Laratips">Laratips</a></li>
 </ul>
     
+# Be cope up with ♻
+    
+<ul>
+  <li><a href="https://laravel-news.com/">Laravel News</a></li>
+</ul>
+    
 # Contact Me 📱
 
 <a href="https://www.facebook.com/mahmoudmohamedramadan496" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
