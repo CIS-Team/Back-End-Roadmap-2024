@@ -24,54 +24,54 @@
 ## Beginner Level 😋
 
 ### PHP: Elzero
-At the first we will use php programming language in our backend journey as a powerful language (from 10 to 14 days) 👇
+At the first we will use php programming language in our backend journey as a powerful language 👇
     
 <a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM">Apitizers</a>
 
 ## OOP: Elzero || The Net Ninja
-Second to be master at php you will need to be a hero in OOP (object oriented programming)  (from 9 to 13 days) 👇
+Second to be master at php you will need to be a hero in OOP (object oriented programming) 👇
     
 <a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM">OOP</a>
 
 ### Advanced PHP:  Elzero
-Third you need to know some advanced topics in php like sanitization and XSS  (1 day) 👇
+Third you need to know some advanced topics in php like sanitization and XSS 👇
  
 <a href="https://youtu.be/uXpQSrx8aqw">Security & Sanitization</a>
 
 ### Database: Elzero
-After you become master in php you will need to know about Databases, Tables, Rows and its functions Laraver (from 10 to 14 day) 👇
+After you become master in php you will need to know about Databases, Tables, Rows and its functions Laraver 👇
     
 <a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9">Database</a>
 
 ### Payment Gateway: Traversy Media
-Sometimes you need to provide Payment methods to your website like {Stripe, HyperPal, PayPal, ...} (from 2 to 3 day) 👇
+Sometimes you need to provide Payment methods to your website like {Stripe, HyperPal, PayPal, ...} 👇
     
 <a href="https://www.youtube.com/playlist?list=PLillGF-Rfqbb8OFHzQhkEElaReewJlwca">Payment Gateway</a>
 
 ### API: Traversy Media
-Finally after you’ve finished `PHP` & `MySQL` you need to know how to create APIs (from 1 to 2 day) 👇
+Finally after you’ve finished `PHP` & `MySQL` you need to know how to create APIs 👇
     
 <a href="https://youtube.com/playlist?list=PLillGF-RfqbZ3_Xr8do7Q2R752xYrDRAo">API</a>
 
 ### Github: Elzero
-Here you will learn Github to push your projects first 9 episodes (from 3 to 5 day) 👇
+Here you will learn Github to push your projects first 9 episodes 👇
     
 <a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVM">Github</a>
 
 # Intermediate Level 🔥
 
 ### Laravel 5.x: Coder’s Tape
-Here you will learn more things but in different way to gain experience (from 10 to 15 day)👇
+Here you will learn more things but in different way to gain experience 👇
     
 <a href="https://www.youtube.com/playlist?list=PLpzy7FIRqpGD0kxI48v8QEVVZd744Phi4">Laravel 5.x</a>
 
 ### Laravel 7.x: Sarthak Shrivastava
-Here you will learn more topics like `Livewire` and `Tailwind CSS` (from 10 to 15 day) 👇
+Here you will learn more topics like `Livewire` and `Tailwind CSS` 👇
 
 <a href="https://youtube.com/playlist?list=PLe30vg_FG4OSCTUv3XIkwH--cK2D7rfJJ">English Laravel 7.x</a>
 
 ### Livewire
-Here you will learn `Livewire` framework, this framework is similar to `Vue.js` (from 5 to 10 day) 👇
+Here you will learn `Livewire` framework, this framework is similar to `Vue.js` 👇
  
 > This step is optional BUT I advise you to learn that great framework as it will relieve you from AJAX problems. If you'd like to learn Vue.js you can see this <a href="https://youtube.com/playlist?list=PLDoPjvoNmBAzDuaT7kEURZQbw9dQHepK9">tutorial</a>
     
@@ -80,12 +80,12 @@ Here you will learn `Livewire` framework, this framework is similar to `Vue.js` 
 # Advanced Level 😎
     
 ### Laravel 6.x: Coder’s Tape
-Here you will learn very advanced topics in Laravel with Code’s Tap (from 5 to 9 day) 👇
+Here you will learn very advanced topics in Laravel with Code’s Tap 👇
     
 <a href="https://www.youtube.com/playlist?list=PLpzy7FIRqpGD5pN3-Y66YDtxJCYuGumFO ">Laravel 6.x</a>
 
 ### Laravel 7.x: Laravel Realtime
-Here you will learn very advanced topics and real time actions in Laravel with Ahemd Emam (from 5 to 9 day) 👇
+Here you will learn very advanced topics and real time actions in Laravel with Ahemd Emam 👇
     
 <a href="https://www.youtube.com/playlist?list=PLCm7ZeRfGSP5u3WilkVBz4s-uQtsy79eb">Laravel Realtime</a>
 
