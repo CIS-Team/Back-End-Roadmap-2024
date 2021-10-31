@@ -31,6 +31,7 @@
   <li>PHP Class Generator</li>
   <li>PHP Snippets</li>
   <li>vscode-icons</li>
+  <li>GitHub Copilot</li>
 </ul>
 
 ## Beginner Level 😋
@@ -101,7 +102,7 @@ Here you will learn very advanced topics and real time actions in Laravel with A
     
 <a href="https://www.youtube.com/playlist?list=PLCm7ZeRfGSP5u3WilkVBz4s-uQtsy79eb">Laravel Realtime</a>
 
-# Ninja Level 💪
+# Ninja Level 👨‍💻
 
 ### Packages:
 Andre Madarang || Sarthak Shrivastava here you will learn some useful packages in Laravel
