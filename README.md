@@ -31,7 +31,7 @@
   <li>PHP Class Generator</li>
   <li>PHP Snippets</li>
   <li>vscode-icons</li>
-  <li>GitHub Copilot</li>
+  <li>MySQL</li>
 </ul>
 
 ## Beginner Level 😋
