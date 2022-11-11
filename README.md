@@ -124,7 +124,6 @@ Here you will find an awesome <a href="https://youtube.com/playlist?list=PL6dOx0
 
 <ul>
   <li><a href="https://github.com/CIS-Team/BackEnd-Squad/tree/main/books">Laravel Up & Running</a></li>
-  <li><a href="https://github.com/CIS-Team/BackEnd-Squad/blob/main/books/The-Clean-Coders-Guide-to-Laravel.pdf">Laravel Clean Coders</a></li>
 </ul>
 
 > you may want recaps for the first book <a href="https://github.com/mahmoudmohamedramadan/Laravel-Digging">here</a>
