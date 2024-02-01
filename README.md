@@ -175,6 +175,11 @@ ________________________________________________________
 
  <summary>PHP Basics</summary>
 
+  <summary> Master your editor</summary>
+
+📹 [Phpstorm](https://laracasts.com/series/phpstorm-for-laravel-developers)
+
+
 📽️ [Learn PHP 8 In Arabic](https://www.youtube.com/watch?v=xcg9qq6SZ0w&list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq)
 
 #### OR
@@ -297,5 +302,187 @@ ________________________________________________________
 </details>
 
 > ***Here You Need To Search About API Documentation***
+#### Intermediate: 
+
+<details>
+  <summary>Read about Laravel best practices & Tips</summary>
+
+📄 [Laravel Best Practices Repository](https://github.com/alexeymezenin/laravel-best-practices)
+
+📄 [Laravel Tips Repository](https://github.com/LaravelDaily/laravel-tips)
+
+</details>
+<details>
+
+  <summary>Laravel Advanced Concepts</summary>
+
+📹 [Laravel Advanced - Coder's Tape](https://www.youtube.com/watch?v=_z9nzEUgro4&list=PLpzy7FIRqpGD5pN3-Y66YDtxJCYuGumFO)
+</details>
+<details>
+
+  <summary>Laravel Testing</summary>
+
+📹 [Laravel Testing - LaravelDaily](https://www.youtube.com/watch?v=BuDger5Ytbc&list=PLdXLsjL7A9k0esh2qNCtUMsGPLUWdLjHp)
+
+
+📹 [Laravel Testing - Laracasts](https://laracasts.com/series/build-a-laravel-app-with-tdd)
+
+OR
+
+📹 [Laravel Testing](https://www.youtube.com/playlist?list=PLpzy7FIRqpGAbkfdxo1MwOS9xjG3O3z1y)
+
+</details>
+<details>
+
+  <summary>Laravel package development</summary>
+
+📹 [Laravel Package Development](https://www.youtube.com/playlist?list=PLpzy7FIRqpGBQ_aqz_hXDBch1aAA-lmgu)
+
+</details>
+
+<details>
+
+  <summary>Useful laravel packages</summary>
+
+📹 [Laravel packages](https://www.youtube.com/playlist?list=PLEhEHUEU3x5pcQJHE8WBLqlHt2o3q5O-f)
+
+
+</details>
+
+## Advanced General:
+<details>
+
+  <summary>More Data Structures and Algorithms</summary>
+
+📹 [Data Structures and Algorithms - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
+</details><details>
+
+  <summary>Advanced Database Systems - CMU</summary>
+
+📹 [Advanced Database Systems - CMU](https://www.youtube.com/watch?v=LWS8LEQAUVc&list=PLSE8ODhjZXjYzlLMbX3cR0sxWnRM7CLFn)
+</details>
+</details><details>
+
+  <summary>NoSQL Database Tutorial</summary>
+
+📹 [NoSQL Database Tutorial](https://www.youtube.com/watch?v=xh4gy1lbL2k)
+</details>
+<details>
+
+  <summary>Operating Systems</summary>
+
+📹 [Operating Systems - Berkeley](https://www.bilibili.com/video/BV1e7411B7Ja?p=3)
+
+</details>
+<details>
+
+  <summary>Distributed Systems</summary>
+
+📹 [Distributed Systems University of Cambridge - Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+
+📄 [Lecture Notes](https://www.cl.cam.ac.uk/teaching/2122/ConcDisSys/dist-sys-notes.pdf)
+
+
+</details>
+<details>
+
+  <summary>Web Application Security</summary>
+
+📖 [Web Application Security Book](https://www.oreilly.com/library/view/web-application-security/9781492053101/)
+
+  </details>
+<details>
+
+<summary> Design Patterns & SOLID Principle </summary> 
+
+##### Books
+
+📖 [Head First Design Pattern 2nd Edition](https://drive.google.com/file/d/1BmXIGt6CaMig1qXiqETQI5y3wsmh4N1z/view?usp=sharing)
+
+##### Videos
+
+📹 [Mosh  Design Pattern](https://www.youtube.com/watch?v=NU_1StN5Tkk&ab_channel=ProgrammingwithMosh)
+
+📹 [Arabic SOLID Principle](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdflFSS4NigVB7aSoYPNwHTL)
+
+📹 [Arabic Creational Design Pattern](https://www.youtube.com/watch?v=hT9Gv_wabbw&list=PLnqAlQ9hFYdewk9UKGBcHLulZNUBpNSKJ&ab_channel=MohammedReda)
+
+📹 [Arabic Structural Design Pattern](https://www.youtube.com/watch?v=5qBVy3dCEQw&list=PLnqAlQ9hFYdcW3viz_oXRal_FNkg2Dssm&ab_channel=MohammedReda)
+
+📹 [Arabic Design Pattern](https://www.youtube.com/watch?v=-UQND--CVew&list=PLd-dOEgzBpGnt3GuEszo_piQq52XSqAmj&ab_channel=DevGeeksAcademy)
+
+📹 [Arabic PHP Design Pattern](https://www.youtube.com/watch?v=hYas1gMp2nM&list=PLdYYj2XLw5BnpInmR103TyVwFd_CLI6IS&ab_channel=RamyHakam)
+
+📹 [Head First Design Pattern As an English Playlist](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
+##### Website
+
+🖇️ [Refactoring GURU Design Pattern](https://refactoring.guru/design-patterns)
+
+##### Articles & Repos
+
+📄 [SOLID Article - Digital Ocean](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+
+📄 [Design Patterns - Repo](https://github.com/kamranahmedse/design-patterns-for-humans)
+
+</details>
+<details>
+
+<summary>Object-Oriented Analysis and Design</summary> 
+
+📖 [Head First Object-Oriented Analysis and Design](https://github.com/MarkPThomas/HeadFirst-OOAD/blob/master/Head%20First%20Object-Oriented%20Analysis%20and%20Design.pdf)
+
+</details>
+<details>
+
+<summary> Clean Code & Refactoring </summary> 
+
+📖 [Clean Code](https://github.com/ontiyonke/book-1/blob/master/%5BPROGRAMMING%5D%5BClean%20Code%20by%20Robert%20C%20Martin%5D.pdf)
+
+📖 [Refactoring To Patterns](https://github.com/abhinavkorpal/awesome-computer-science-EBook/blob/master/DesignPatterns/Refactoring%20To%20Patterns%20-%20Joshua%20Kerievsky.pdf)
+
+📖 [Martin Fowler](https://martinfowler.com/books/)
+
+</details>
+
+### Integration and Deployment:
+
+<details>
+
+<summary> CI CD </summary> 
+
+📹 [Continuous Integration And Continuous Delivery](https://www.youtube.com/watch?v=h9K1NnqwUvE&ab_channel=Simplilearn)
+
+
+</details>
+
+<details>
+
+<summary>  Container </summary> 
+
+📹 [Docker - Free Code Camp - English](https://www.youtube.com/watch?v=fqMOX6JJhGo&ab_channel=freeCodeCamp.org)
+
+📹 [Docker - TechWorld with Nana - English](https://www.youtube.com/watch?v=3c-iBn73dDE&ab_channel=TechWorldwithNana)
+
+📹 [Docker Practical Course - Arabic](https://www.youtube.com/watch?v=tHP5IWfqPKk&list=PLzNfs-3kBUJnY7Cy1XovLaAkgfjim05RR)
+
+</details>
+
+<details>
+
+<summary>  Cloud </summary> 
+
+📹 [AWS - Free Code Camp](https://www.youtube.com/watch?v=3hLmDS179YE&ab_channel=freeCodeCamp.org)
+
+</details>
+
+<details>
+
+<summary>Deployment</summary> 
+
+📹 [Deploy on digital oceans](https://www.youtube.com/watch?v=QnNA7YdvCYA&list=PLseEp7p6EwiZrR_9dzp8d3AVcBqPz-HFZ&index=3)
+
+📹 [Deploy on shared hosting](https://www.youtube.com/watch?v=6g8G3YQtQt4)
+
+  </details>
 
 
