@@ -230,5 +230,72 @@ ________________________________________________________
 📽️ [PHP For Beginners Laracasts 2023-edition - English](https://laracasts.com/series/php-for-beginners-2023-edition)
 </details>
 
+<details>
+ <summary>PHP Native Projects</summary>
+
+📽️ [medical project using php and mysql and ajax - Arabic](https://www.youtube.com/watch?v=7SSAycLnrsM&list=PLe_UJpVeP8qDV8zpkvCyjOQQPKPkwZ-6p)
+
+#### OR
+📽️ [Complete Mobile Shopee E-Commerce Website Course - PHP & MySQL](https://www.youtube.com/watch?v=KLWA2vCERSQ)
+
+#### AND
+📽️ [Create a PHP Application | PHP MVC Project Tutorial](https://www.youtube.com/watch?v=Rkg731t47dc&t=1s&ab_channel=DaveGray)
+
+</details>
+
+<details>
+ <summary>Laravel Basics</summary>
+
+📽️ [Backend Bootcamp: Laravel & Backend Introducion - Eyad Hamza](https://www.youtube.com/playlist?list=PLIzoD6CTXb3_iILDz7NIGj49stmeoDWh0)
+
+📽️ [Laravel 8 From Scratch - Jeffry Way](https://laracasts.com/series/laravel-8-from-scratch) ***Highly Recommended***
+
+#### OR
+📽️ [Laravel From Scratch ](https://www.youtube.com/watch?v=376vZ1wNYPA)
+
+📽️ [Laravel 10 Beginners Course](https://youtube.com/playlist?list=PLqDySLfPKRn5d7WbN9R0yJA9IRgx-XBlU&si=ei_2kJF0FwaK03Ge)
+</details>
+
+<details>
+ <summary>Laravel Projects</summary>
+
+***First Watch To Know How To Apply***
+
+📽️ [Laravel 6 From Scratch](https://laracasts.com/series/laravel-6-from-scratch)
+
+📽️ [Laravel PHP Framework - Insta Clone](https://www.youtube.com/watch?v=ImtZ5yENzgE)
+
+📽️ [Laravel From Scratch 2022 - Laragigs](https://www.youtube.com/watch?v=MYyJ4PuL4pY&list=LL&index=3)
+
+***After That You Need To Apply Alone - Search About Templates***
+
+🌐 [Like Those](https://bootstrapmade.com/bootstrap-resume-cv-templates/)
+</details>
+
+<details>
+ <summary>Admin Panels</summary>
+
+***Filament Is The Most Common Framework To Create Dashboard But You Free To Use Another***
+
+📽️ [Laravel Filament](https://www.youtube.com/playlist?list=PL6tf8fRbavl3lxHRw44aKyW0Hq2IXmxGv)
+
+📽️ [Laravel Filament Roles and Permissions](https://www.youtube.com/playlist?list=PL6tf8fRbavl2oguMj5NSrQXhsd6ztc8_O)
+
+📽️ [Filament Daily Channel For Tips](https://www.youtube.com/@FilamentDaily)
+</details>
+
+<details>
+ <summary>Laravel API</summary>
+
+📽️ [Creating a Laravel API](https://www.youtube.com/watch?v=mgdMeXkviy8)
+
+📽️ [Laravel 8 REST API With Sanctum Authentication](https://www.youtube.com/watch?v=MT-GJQIY3EU&t=2127s)
+
+📽️ [Laravel API Crash Course For Beginners](https://www.youtube.com/watch?v=xvqPEEpRBJ4&list=LL&index=3&t=11s)
+
+📽️ [Laravel MentorSHIP: Travel API](https://www.youtube.com/playlist?list=PLdXLsjL7A9k2utMAieXUnUP8zyxaDA3mP) ***Recommended After One Or Two Videos Watched***
+</details>
+
+> ***Here You Need To Search About API Documentation***
 
 
