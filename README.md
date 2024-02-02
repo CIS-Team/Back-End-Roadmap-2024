@@ -95,7 +95,66 @@ ________________________________________________________________________________
 
 
 
+<br>
+<br>
+<br>
+
+# Django - Python
+
+- [Python Basics](https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs&si=6dJUvnt3gyyANybO)
+
+- [OOP](https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs&si=6dJUvnt3gyyANybO)
+
+- [Django Basics](https://youtube.com/playlist?list=PL2z1gXAKH9c3XUn2HYMWRbAon4z6AQ4CL&si=DFu4WEykODIyNbKA)
+
+- [Django ORM](https://youtube.com/playlist?list=PLOLrQ9Pn6cazjoDEnwzcdWWf4SNS0QZml&si=NwYIqVaAh53uZi7Z)
+
+
+<br>
+<details>
+
+<summary>Start To Create Django Projects</summary>
+
+- [Protfolio resume project](https://youtu.be/pLN-OnXjOJg?si=VVUSW1foiNtkKs5t)
+
+- [Todo Project](https://youtu.be/4RWFvXDUmjo?si=LeXdC-vWVGUx-RUM)
+
+- [Voting App](https://youtu.be/dPoGRYz-n5E?si=2HBaKimeH0eIpO2v)
+
+- [Todo App With Authentication](https://youtu.be/llbtoQTt4qw?si=mHJQsp7zgDDhXM7p)
+
+- [Chat System](https://www.youtube.com/watch?v=cw8-KFVXpTE)
+
+
+</details>
+
+
+<br>
+
+```
+This incoming technologies is very important for you.
+As you will use it for work in companies.
+```
+
+<br>
+
+- [Django Rest Framework ](https://youtube.com/playlist?list=PLXqhO5lRtxJV6oWcW2vlPHRzRFF6gVvc3&si=OoxMHr4_NETs7Yre)
+
+
+- [Postman](https://www.youtube.com/watch?v=NDKlI0DvolY)
+
+- [CRUD](https://youtu.be/oj7DEXQdVqw?si=Eq34ZItKfxfu3qfR)
+
+- [JWT Authentication](https://youtu.be/pUBAYMMpx3I?si=wl00ljNLiEiI6MzT)
+
+- [Pagination](https://www.youtube.com/watch?v=ZgmF6AX3U7E)
+
+- [Redis](https://www.youtube.com/watch?v=tJVNUYvjTUk)
+
+- [Celery](https://youtube.com/playlist?list=PLLz6Bi1mIXhHKA1Szy2aj9Jbs6nw9fhNY&si=MlSTRVIFBtlH7FBm)
+
+- [Docker - #1 -> #4](https://youtube.com/playlist?list=PLOLrQ9Pn6cazCfL7v4CdaykNoWMQymM_C&si=NMMhdArWo3EM9T_6)
 
 
 
-
+#
