@@ -1,6 +1,6 @@
 # Back End Squad Roadmap
 
-<p style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap">
+<p style="display: flex; align-items: center; justify-content: space-arround; flex-wrap: wrap">
   <a href="https://laravel.com/"><img src="assets/repo/laravel_logo.svg" width="400px" height="200px" alt="Laravel"></a>
   <a href="https://www.djangoproject.com/"><img src="assets/repo/dj.png" width="300px" height="150px" alt="Django"></a>
   <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework"><img src="assets/repo/ASP.png" width="250" height="250" alt=".NET"></a>
