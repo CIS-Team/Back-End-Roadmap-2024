@@ -1,46 +1,47 @@
 # Back End Squad Roadmap
 
-<p align="center">
-  <a href="https://www.php.net/docs.php"><img src="https://github.com/CIS-Team/BackEnd-Squad/blob/main/assets/repo/php_logo.svg" width="100px" height="200px" alt="PHP"></a>
-  <a href="https://laravel.com/"><img src="https://github.com/CIS-Team/BackEnd-Squad/blob/main/assets/repo/laravel_logo.svg" width="300px" height="200px" alt="Laravel"></a>
-  <a href="https://laravel-livewire.com/"><img src="https://github.com/CIS-Team/BackEnd-Squad/blob/main/assets/repo/livewire_logo.svg" width="100px" height="200px" alt="Laravel"></a>
+<p style="display: flex; align-items: center; justify-content: space-evenly">
+  <a href="https://laravel.com/"><img src="assets/repo/laravel_logo.svg" width="400px" height="200px" alt="Laravel"></a>
+  <a href="https://www.djangoproject.com/"><img src="assets/repo/dj.png" width="300px" height="150px" alt="Django"></a>
+  <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework"><img src="assets/repo/ASP.png" width="250" height="250" alt=".NET"></a>
 </p>
 
 ## General Keys :
-🔗 [Laravel - PHP](#laravel---php)
+🔗 [Laravel - PHP](#-laravel---php)
 
-🔗 [Django - Python](#django)
+🔗 [Django - Python](#-django---python)
 
 🔗 [ASP.Net  Core - C#](#asp.net-core)
 
 ## Roadmap Keys:
- 
+
 🔗 [Preparation](#preparation)
 
 🔗 [Entry & Basics ](#entry--basics)
 
 🔗 [Beginner](#beginner)
 
+# General Topics:
 ## Preparation:
 
 <details>
  <summary>CS Introduction </summary>
 
 
- [Data Structures](https://www.youtube.com/watch?v=owCqVRbZlbg&list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
+[Data Structures](https://www.youtube.com/watch?v=owCqVRbZlbg&list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
 
 #### OR
 
- [Data Structures Easy to Advanced Course](https://www.youtube.com/watch?v=owCqVRbZlbg&list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
+[Data Structures Easy to Advanced Course](https://www.youtube.com/watch?v=owCqVRbZlbg&list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
 ________________________________________________________
 
 
 [Programiz Website](https://www.programiz.com/dsa/data-structure-types)
-    
+
 [ Introductions to Algorithms](https://www.youtube.com/watch?v=8hly31xKli0&t=2s)
 
 
-#### Recommended Books 
+#### Recommended Books
 [Grokking Algorithms](https://bit.ly/3xl71jO)
 </details>
 
@@ -91,8 +92,8 @@ ________________________________________________________
  <summary>ملخص ايه اللى بيحصل من وراك لما بتفتح موقع انترنت</summary>
 
 🛜 [OSI Layers](https://www.youtube.com/watch?v=A31bxOyj5mk&t=10s)
-### NOTE: 
-#### You Need To Search For New Terms After This Video. 
+### NOTE:
+#### You Need To Search For New Terms After This Video.
 </details> 
 
 <details>
@@ -106,7 +107,6 @@ ________________________________________________________
 
 </details>
 
-# Laravel - PHP
 ## Beginner:
 
 <details>
@@ -162,7 +162,7 @@ ________________________________________________________
 
 📽️ [Git & GitHub - Arabic, Almdrasa](https://almdrasa.com/tracks/programming-foundations/courses/git-github/)
 
-#### OR 
+#### OR
 🌐 [Version Source Control | التحكم بالاصدارت](https://www.youtube.com/watch?v=Jaqrcw_MB9E&list=PL4n1Qos4Tb6R4guGC4oX_PZVt8E8XpvqE)
 
 > Keep Deep
@@ -171,6 +171,10 @@ ________________________________________________________
 
 </details>
 
+> [!IMPORTANT]
+> From Here Feel Free To Choose Any Path You Want To Start With. ***OFC. After You Finish The Basics & Search About Different Paths***
+
+# # Laravel - PHP:
 <details>
 
  <summary>PHP Basics</summary>
@@ -204,10 +208,10 @@ ________________________________________________________
 #### OR
 📽️ [Object Oriented PHP Tutorials - English](https://www.youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh)
 
-#### OR 
+#### OR
 📽️ [Object-Oriented Principles in PHP](https://laracasts.com/series/object-oriented-principles-in-php) ***Paid***
 
-> You Can See it As A Refresh Your Knowledge As Crash Course 
+> You Can See it As A Refresh Your Knowledge As Crash Course
 
 📽️ [Introduction to OOP](https://www.youtube.com/watch?v=gUNVnOIK7CM&list=PL71ekc7LvuXK5irXyxo2tRI8fm9QIm0Gj)
 
@@ -231,7 +235,7 @@ ________________________________________________________
 📽️ [PHP MVC - Arabic](https://www.youtube.com/watch?v=G9ZQNT9M3Hc&list=PLv-kDGQ3al9t6kNKTxxWMog_GES3-XLm1)
 
 > After Watching The Previous You Need To Deep and Practise So Must See It
-> 
+>
 📽️ [PHP For Beginners Laracasts 2023-edition - English](https://laracasts.com/series/php-for-beginners-2023-edition)
 </details>
 
@@ -302,7 +306,7 @@ ________________________________________________________
 </details>
 
 > ***Here You Need To Search About API Documentation***
-#### Intermediate: 
+#### Intermediate:
 
 <details>
   <summary>Read about Laravel best practices & Tips</summary>
@@ -484,11 +488,8 @@ OR
 
   </details>
 
-<br>
-<br>
-<br>
-
-# Django - Python
+--------------------------------------------------------
+# # Django - Python
 
 - [Python Basics](https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs&si=6dJUvnt3gyyANybO)
 
