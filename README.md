@@ -559,7 +559,7 @@ This roadmap guides aspiring C# developers, from beginners to intermediates, on 
 - Passion for coding
 - Basic understanding of programming concepts
 
-## Beginner Level (0-3 months)
+## Beginner Level
 
 **C# Syntax and Fundamentals:**
 
