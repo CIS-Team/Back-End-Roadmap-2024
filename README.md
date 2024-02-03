@@ -13,7 +13,7 @@
 
 🔗 [ASP.Net  Core - C#](#-aspnet---c)
 
-## Roadmap Keys:
+## Roadmap General Topics Keys:
 
 🔗 [Preparation](#preparation)
 
@@ -125,10 +125,15 @@ ________________________________________________________
 
 </details>
 
+
 <details>
  <summary>Introduction To Database</summary>
 
 📽️ [Database Design Course](https://www.youtube.com/watch?v=ztHopE5Wnpc)
+
+ **Note:**
+> If You Are Taking The Asp Path, You Can Watch The Db Content From The Asp Db Resource, But Database Design Is Covered In This Section.
+
 
 📽️ [MySQL Tutorial for Beginners](https://www.youtube.com/watch?v=7S_tz1z_5bA)
 
@@ -140,6 +145,7 @@ ________________________________________________________
 📽️ [مقرر أساسيات قواعد البيانات - DB 1](https://www.youtube.com/playlist?list=PL37D52B7714788190)
 
 📽️ [المقرر العملى](https://www.youtube.com/playlist?list=PL85D9FC9DFD6B9484)
+
 </details>
 
 <details>
@@ -174,7 +180,7 @@ ________________________________________________________
 > [!IMPORTANT]
 > From Here Feel Free To Choose Any Path You Want To Start With. ***OFC. After You Finish The Basics & Search About Different Paths***
 
-# # Laravel - PHP:
+# # Laravel - PHP
 <details>
 
  <summary>PHP Basics</summary>
