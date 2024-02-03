@@ -546,5 +546,109 @@ As you will use it for work in companies.
 - [Docker - #1 -> #4](https://youtube.com/playlist?list=PLOLrQ9Pn6cazCfL7v4CdaykNoWMQymM_C&si=NMMhdArWo3EM9T_6)
 
 
+<br> 
+<br>
+--------------------------------------------------------
+## Asp.net - C# 
+# C# Developer Roadmap
 
-#
+This roadmap guides aspiring C# developers, from beginners to intermediates, on their learning journey. It outlines essential topics, resources, and best practices to navigate the .NET ecosystem effectively.
+
+## Prerequisites
+
+- Passion for coding
+- Basic understanding of programming concepts
+
+## Beginner Level
+
+**C# Syntax and Fundamentals:**
+
+- **[ITI C# Courses](https://www.youtube.com/playlist?list=PLsV97AQt78NT0H8J71qe7edwRpAirfqOI)** 
+- **[Passionate Coders C# Tutorial](https://www.youtube.com/watch?v=yqUeKsXwfRE&list=PL5RGzfpIj4jEhPZGKf7cRTp_k4-PzcEmZ&index=3)** 
+
+**Intermediate (OOP):** 
+* **[Issam Abd Elnabi (OOP videos only)](https://youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)** (highly recommended)
+* **[passionate coders](https://www.youtube.com/playlist?list=PLsV97AQt78NQumtM4rQc77yjbkZcGOTX5)** 
+
+
+**Advanced C#**
+* **[Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NQYhO7NqlBTrJX_Nsk3SmyY)**
+* **[Issam Abd Elnabi](https://youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)**
+* **[TimCorey](https://www.youtube.com/playlist?list=PLLWMQd6PeGY12yNE714jffLFnMVZCwvvZ)**
+
+
+**Highly Recommended Books**
+* Illustrated C# 7
+* C# in nutshell (reference)
+
+**Databases:**
+
+- **SQL Server (DBMS):**
+    - **[Issam AbdelNabi SQL Server Course](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RP_OovpgjoHLkCVaYFy-aj)** 
+    - **[الدسوقي SQL Server](https://www.youtube.com/channel/UCyXgP5-bU159_w7tK_4YbpQ)** 
+
+
+- **Query Language in C# (LINQ):**
+    - **[Issam's LINQ Resources](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6Sj1Y4xJuJoWCuqleeG2yt6)** 
+    - **[FreeCodeCamp LINQ Tutorials](https://www.youtube.com/watch?v=5l2qA3Pc83M&t=3849s)** 
+
+- **EF Core (ORM)**
+  - **[DevCreed](https://www.youtube.com/playlist?list=PL62tSREI9C-cHV28v-EqWinveTTAos8Pp)**
+  - **[Issam Abd Elnabi](https://youtube.com/playlist?list=PL4n1Qos4Tb6QZkbTWJx7wHqEABP8Pg6uv)** 
+
+**Solid Principles**
+
+- **[Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NRT1GmH2EJ-o-2_ILFM9feq)** 
+- **[Issam's Solid Principles Course](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6ThSyydEJTm7xJ3qEwE8Oyu)** 
+
+**Design Patterns:**
+
+- **[Pasionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NRT1GmH2EJ-o-2_ILFM9feq)** (recommended)
+- **[Issam's Design Patterns Resources](https://www.youtube.com/playlist?list=PLsV97AQt78NTrqUAZM562JbR3ljX19JFR)** 
+
+
+**Web Development with ASP.NET Core:**
+
+- **Essential courses:**
+    - **[ASP.NET Core for Beginners](https://www.youtube.com/playlist?list=PLLWMQd6PeGY12yNE714jffLFnMVZCwvvZ)**
+    - **[Dependency Injection and Life Cycles by Tim Corey](https://www.youtube.com/watch?v=Hhpq7oYcpGE)**
+    - **[MVC Pattern Introduction](https://www.youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC)**
+    - **[Practice with a small CRUD project.](https://www.youtube.com/playlist?list=PL62tSREI9C-c-Zw9Pafbd7VQTfZMtn8yQ)**
+
+- **Web Api**
+    - **[Web APIs with Devcreed Tutorials](https://www.youtube.com/playlist?list=PL62tSREI9C-c_yZ0a7Yui1U22Tv4mBjSF)**
+
+- **[Repository Pattern](https://www.youtube.com/playlist?list=PL62tSREI9C-e6nQ47brLj00iSGddiee73)**
+
+
+### Authentication & Security
+* **[ASP.NET Core API with JWT Authentication](https://www.youtube.com/playlist?list=PL62tSREI9C-eYNE1Pyw0yv1tETs5V8WGd)** 
+* **[JWT Refresh Tokens In .Net 6 (Core)](https://www.youtube.com/playlist?list=PL62tSREI9C-foV0zXVpW_f0JNtTD6Wv2W)**
+
+* **Pro ASP.NET Core 6 (Chapters on Authentication & Authorization):** Deepen your understanding with recommended book chapters (refer to book for specific chapters).
+
+### Caching & Unit Testing
+
+* **[Memory Cache](https://www.youtube.com/playlist?list=PL62tSREI9C-foV0zXVpW_f0JNtTD6Wv2W)**
+* **[Unit Testing](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RrQpmpGWALaE1PVvWR8d3A)** 
+
+## Advance & Important Concepts
+
+* **[Shiv Kumar's C# Playlist](https://www.youtube.com/playlist?list=PLJ0hAqAAdnpD5ohNkTH_TMnes0tDa6cua)** Explore advanced topics through extensive video tutorials. 
+
+* **[tutorialsEU - C#](https://www.youtube.com/playlist?list=PLSr9CPTtmP9js0n4XOmI4vfKeVvlS32PA)** Find additional resources for specific topics as needed.
+
+
+### Reference Books
+
+* **Pro ASP.NET Core** Master practical web development techniques.
+* **ASP.NET Core in Action** Gain comprehensive knowledge of the ASP.NET Core framework.
+* **Building Web APIs with ASP.NET Core** 
+
+
+
+
+
+
+
+
