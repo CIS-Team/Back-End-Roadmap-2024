@@ -590,7 +590,7 @@ As you will use it for work in companies.
 
 - **SQL Server (DBMS):**
     - **[Issam AbdelNabi SQL Server Course](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RP_OovpgjoHLkCVaYFy-aj)** 
-    - **[الدسوقي SQL Server](https://www.youtube.com/channel/UCyXgP5-bU159_w7tK_4YbpQ)** 
+    - **[الدسوقي SQL Server](https://youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE&si=atTZYq1KGo_LdHUo)** 
 
 
 - **Query Language in C# (LINQ):**
