@@ -32,7 +32,7 @@
 
 #### OR
 
-[Data Structures Easy to Advanced Course](https://www.youtube.com/watch?v=owCqVRbZlbg&list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
+[Data Structures Easy to Advanced Course](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 ________________________________________________________
 
 
